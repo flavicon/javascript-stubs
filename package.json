@@ -1,0 +1,16 @@
+{
+  "name": "javascript-stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --trace-warnings ./src/service.test.js"
+  },
+  "keywords": [],
+  "author": "Flávio Silva",
+  "license": "ISC",
+  "dependencies": {
+    "sinon": "^15.2.0"
+  }
+}
